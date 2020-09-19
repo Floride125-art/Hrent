@@ -4,7 +4,7 @@
 ### This website was Done by me(Floride Tuyisenge)
 ### There is some arrangement issue but hope you get all info
 ### Technologies used are HTML, and CSS.
-## Email:flo.tuyisenge@gmail.com, Phone:+250780674917
+## Email:flo.tuyisenge@gmail.com, and Phone:+250780674917
 ### © 2020 E-HRent.com 
 ### Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "E-HRent"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
